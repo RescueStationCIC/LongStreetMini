@@ -1,0 +1,65 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Long Street Chapel and School
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Description
+album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_0.description = Client presentation drawing by Edgar Wood
+album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_3.description = Original drawing of façade showing the art nouveau tracery. The \
+gateway was originally to have an art nouveau carving.
+album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_4.description = Early photo showing the flowering trees just planted. \
+The softly flowing walls have been rebuilt, unfortunately.
+album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_6.description = Signs of early modernism can be seen in the abstract blockwork sculpture formed from differently coloured stone blocks \
+which replaced the carving
+album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_9.description = A photograph published in the Architechural Review, as part of  'Modern English Churches' article.
+
+### Title
+album_B1D729DC_AB67_1E84_41AC_69C20E552EFB.label = Walk Around
+album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_0.label = In-situ Drawing
+album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_3.label = Original Drawing
+album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_4.label = Courtyard
+album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_6.label = Influence of Modernism
+album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_9.label = The Architectural Review
+album_BF0B168A_A70D_FC38_41C4_40FC021F39BB.label = Photo Album EW boards final.pdf 9
+album_BF0B168A_A70D_FC38_41C4_40FC021F39BB_0.label = EW boards final.pdf 9
+map_D9569494_CF7A_E1B2_41D7_B83C6EF90264.label = image--001
+panorama_09E82ACA_18B2_90AD_41B1_E7F9EC8985F5.label = Organ
+panorama_0A4170A0_1892_F09D_41A2_C4AF8CDD9B16.label = GS__6729
+panorama_8BF284C9_8287_AB68_41D2_F31708B42B34.label = Lectern
+panorama_8BF290DC_8287_6B68_41D4_7277E7FCC384.label = GS__6725
+panorama_8BF296E8_8287_7728_417F_949E0D81D3FF.label = GS__6724
+panorama_8BF2AC72_8287_FB38_41D5_4EF2D57D8E6A.label = GS__6731
+panorama_8BF2DAD6_8287_9F78_41BA_104BA06C74F4.label = Nave
+panorama_8BF2DEB1_8287_B738_41D3_EFC912A9773C.label = Chancel
+panorama_8BF30447_8287_AB58_41DC_168DC3315065.label = GS__6735
+panorama_8BF30885_8287_7BD8_41C0_BA9F043FBB68.label = GS__6737
+panorama_8BF34667_8287_9758_41D5_1B8DFECA64B5.label = GS__6732
+panorama_8BF3504B_8287_AB68_41C4_9AC3B4B61609.label = GS__6733
+panorama_8BF35289_8287_EFE8_41D7_562885CEDA6C.label = GS__6730
+panorama_8BF3727E_8287_6F28_41AF_C484E6265DB1.label = GS__6738
+panorama_8BF3EA53_8287_BF78_416D_76C130F8FCF2.label = GS__6734
+panorama_8BF5732D_8280_AD28_41D2_8308DAE28A82.label = GS__6722
+panorama_8BF58F94_8280_95F8_41DE_BC334B597F5A.label = GS__6720
+panorama_8BF59BB8_8280_FD28_41C5_1ABD1FF4E782.label = Pulpit
+panorama_8BF59D04_8280_9AD8_41C3_4456754791E5.label = Notes and Prints
+panorama_8BF5D958_8280_BD68_41AF_238164B91870.label = GS__6721
+panorama_8BF5F5A1_8280_95D8_41B5_874E614A0797.label = GS__6719
+
+## Action
+
+### URL
+LinkBehaviour_A8D626A2_A514_7C68_41DF_9D9A6601C44E.source = https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en_GB&gl=US&
+LinkBehaviour_AB5B9EAE_A514_8C78_41C7_61507A7772A7.source = https://www.rescuestation.org/#
+LinkBehaviour_AE265FC5_A51C_8C28_41D7_75ADD4B3DC6C.source = https://apps.apple.com/gb/app/youtube-watch-listen-stream/id544007664/#
