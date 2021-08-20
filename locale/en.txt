@@ -15,25 +15,7 @@ IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
 
 ## Media
 
-### Description
-album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_0.description = Client presentation drawing by Edgar Wood
-album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_3.description = Original drawing of façade showing the art nouveau tracery. The \
-gateway was originally to have an art nouveau carving.
-album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_4.description = Early photo showing the flowering trees just planted. \
-The softly flowing walls have been rebuilt, unfortunately.
-album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_6.description = Signs of early modernism can be seen in the abstract blockwork sculpture formed from differently coloured stone blocks \
-which replaced the carving
-album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_9.description = A photograph published in the Architechural Review, as part of  'Modern English Churches' article.
-
 ### Title
-album_B1D729DC_AB67_1E84_41AC_69C20E552EFB.label = Walk Around
-album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_0.label = In-situ Drawing
-album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_3.label = Original Drawing
-album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_4.label = Courtyard
-album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_6.label = Influence of Modernism
-album_B1D729DC_AB67_1E84_41AC_69C20E552EFB_9.label = The Architectural Review
-album_BF0B168A_A70D_FC38_41C4_40FC021F39BB.label = Photo Album EW boards final.pdf 9
-album_BF0B168A_A70D_FC38_41C4_40FC021F39BB_0.label = EW boards final.pdf 9
 map_D9569494_CF7A_E1B2_41D7_B83C6EF90264.label = image--001
 panorama_09E82ACA_18B2_90AD_41B1_E7F9EC8985F5.label = Organ
 panorama_0A4170A0_1892_F09D_41A2_C4AF8CDD9B16.label = GS__6729
