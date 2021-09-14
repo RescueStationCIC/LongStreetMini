@@ -1,5 +1,5 @@
 {
- "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
  "name": "Long Street Chapel and School",
  "icons": [
   {
@@ -40,5 +40,5 @@
  ],
  "display": "fullscreen",
  "start_url": "index.htm",
- "theme_color": "#FFFFFF"
+ "background_color": "#FFFFFF"
 }
